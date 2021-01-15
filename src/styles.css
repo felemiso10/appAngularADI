@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+html{
+    width: 100%;
+}
+
+#task-list{
+    background-color: white;
+    padding:20px;
+}
